@@ -1,0 +1,42 @@
+_repo: The-Prince-and-the-Pauper_1837
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 1837/1837-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Impostors and imposture -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Edward VI, King of England, 1537-1553 -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Princes -- Fiction'
+- !lcsh 'Lookalikes -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Poor children -- Fiction'
+- GITenberg
+title: The Prince and the Pauper
+url: http://www.gutenberg.org/ebooks/1837
